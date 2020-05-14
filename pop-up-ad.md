@@ -1,4 +1,4 @@
-You have sold your soul by taking a job to create something similar to those annoying pop-up ads you sometimes see! You'll be doing this challenge in React. The pop-up ad design is the following:
+You have sold your soul by taking a job to create something similar to those annoying pop-up ads you sometimes see! You'll be doing this challenge in React. The pop-up ad design is the following:   
 
 ![Pop-up_ad_root_image][pop-up_ad_root_image]
 
@@ -78,18 +78,18 @@ export default Popup
 ## Part 2
 
 The ad has been wildly successful, and your company wants to make more of them to capitalize on the popularity of other artists.
-
+  
 6. Refactor your ad component so that you can pass it the name of an artist or show as part of `props`, and have it display that instead of "Taylor Swift".
-
+  
 - Modify your `main.js` file to pass in a different name to your component.
 - Modify your stateless component to display the artist's name using these props.
-
+   
 ## Optional Bonus
-
+  
 You are a professional front-end developer, so make sure your ad visually matches the design even though it's horrible. Again, only do this part if you feel like you have extra time! Make sure you understand the fundamentals of this exercise, mainly creating a React component, passing in props and creating an event handler before even worrying about taking this on! Just getting this article down without the styling is a huge accomplishment!
-
+  
 ## Pro Tips
-
+  
 - [Foundation][foundation] and [Font Awesome][font-awesome] are available for you to use via a CDN.
 
 [fa-times]: http://fortawesome.github.io/Font-Awesome/icon/times/
