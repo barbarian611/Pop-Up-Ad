@@ -70,7 +70,7 @@ const Popup = props => {
   );
 };
 
-export default Popup
+export default Popup 
 ```
 
 5. Now that you have a form and a working close icon, we want to look at the form behavior. For now, submitting the form should [stop][mdn-preventdefault] the submission event and output "Form Submitted" to the console (use `console.log`) in your Chrome Developer Tools. One day you will learn to update this event handler to send the email to a server which spams gullible people for eternity, but today is not that day.
