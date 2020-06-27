@@ -1,4 +1,4 @@
-You have sold your soul by taking a job to create something similar to those annoying pop-up ads you sometimes see! You'll be doing this challenge in React. The pop-up ad design is the following:    
+You have sold your soul by taking a job to create something similar to those annoying pop-up ads you sometimes see! You'll be doing this challenge in React. The pop-up ad design is the following:     
    
 ![Pop-up_ad_root_image][pop-up_ad_root_image]  
 
