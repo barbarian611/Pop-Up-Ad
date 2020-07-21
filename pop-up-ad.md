@@ -27,7 +27,7 @@ This will run a Webpack Dev Server with Babel. If you go to [localhost:8080](loc
 - You should definitely look back at your readings for code examples for a `main.js` and an `index.html`.
 
 2. Create a stateless React component to render the HTML elements needed for the ad. Your component should be in a `src/components` folder and structured something like this:
-
+ 
 ```js
 // Popup.js
 import React from "react"
