@@ -17,7 +17,7 @@ yarn run start
 
 This will run a Webpack Dev Server with Babel. If you go to [localhost:8080](localhost:8080), there should be nothing displayed on the page and there should be no errors in your console.
 
-## Part 1
+## Part 1 
 
 1. Setup your app to have React.
 
