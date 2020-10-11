@@ -7,7 +7,7 @@ Your job is to set up React in your application and render the pop-up ad to the 
 ## Setup
 
 From your challenges directory, run the following 
-
+ 
 ```no-highlight
 et get pop-up-ad
 cd pop-up-ad
