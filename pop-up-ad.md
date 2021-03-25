@@ -1,7 +1,7 @@
 You have sold your soul by taking a job to create something similar to those annoying pop-up ads you sometimes see! You'll be doing this challenge in React. The pop-up ad design is the following:  
      
 ![Pop-up_ad_root_image][pop-up_ad_root_image]  
-
+ 
 Your job is to set up React in your application and render the pop-up ad to the page! **To be specific, we do not need you to make this an actual pop-up module on the page.** Don't worry too much about the styling, just work on that if you have time!
   
 ## Setup
