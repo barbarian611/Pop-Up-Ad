@@ -19,7 +19,7 @@ This will run a Webpack Dev Server with Babel. If you go to [localhost:8080](loc
  
 ## Part 1 
 
-1. Setup your app to have React.
+1. Setup your app to have React. 
 
 - You'll need to `import` the correct react packages in the top of the file!
 - Remember, this will involve having `ReactDOM.render` in your `main.js` which finds the `div` in your `index.html`.
